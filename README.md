@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # task-queue-protocol
 
 **高峰时段只入队不执行，闲时统一跑。**
